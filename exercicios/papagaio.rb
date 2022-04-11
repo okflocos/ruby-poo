@@ -12,7 +12,7 @@ class Papagaio
     end
   end
   
-  papagaio1 = Papagaio.new("Jose", 4)
+  papagaio1 = Papagaio.new("Luana", 4)
   puts papagaio1.nome
   puts papagaio1.idade
   puts papagaio1.repetir_frase
@@ -20,7 +20,7 @@ class Papagaio
   
   puts "--------------"
   
-  papagaio2 = Papagaio.new("Paulo", 3)
+  papagaio2 = Papagaio.new("Paulin", 3)
   puts papagaio2.nome
   puts papagaio2.idade
   puts papagaio2.repetir_frase
